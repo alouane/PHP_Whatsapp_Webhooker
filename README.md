@@ -1,2 +1,2 @@
-# PHP_Whatsapp_Webhooker
-Whatsapp webhooker in PHP
+# PHP_Whatsapp_Business_Webhooker
+Whatsapp business webhooker in PHP
